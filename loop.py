@@ -28,3 +28,15 @@ for var in range(2,60,3):
 for i in range(1,11):
     for j in range(1,11):
         print("i=",i,"j",j)
+
+for letter in 'udara':
+    if letter=='r':
+        continue
+    print(letter)
+
+var=10
+while var>0:
+    print(var)
+    var=var-1
+    if var==5:
+        break
