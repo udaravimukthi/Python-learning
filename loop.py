@@ -16,9 +16,6 @@ print(y)
 for var in list(range(10)):
     print(var)
 
-for var in 'Uv':
-    print(var)
-
 
 for var in range(2,6):
     print(var)
