@@ -7,7 +7,7 @@ while count<11 :
     count=count+2
 
 #method 2
-count =1
+count =7
 while count<13:
     if count%2== 0:
         print (count)
