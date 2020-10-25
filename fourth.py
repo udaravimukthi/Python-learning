@@ -2,7 +2,7 @@
 
 #method1
 count=7
-while count<11 :
+while count<12 :
     print(count)
     count=count+2
 
