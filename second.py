@@ -6,9 +6,9 @@ else:
 
 b=15
 
-if b>10:
-    b=b*2
-    print (b)
+# if b>10:
+#     b=b*2
+#     print (b)
 
 elif b>5:
     print("b")
