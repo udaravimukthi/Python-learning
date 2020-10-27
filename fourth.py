@@ -4,7 +4,7 @@
 count=7
 while count<12 :
     print(count)
-    count=count+2
+    count=count+3
 
 #method 2
 count =7

@@ -17,8 +17,6 @@ for var in list(range(10)):
     print(var)
 
 
-for var in range(2,6):
-    print(var)
 
 for var in range(2,60,3):
     print(var)
