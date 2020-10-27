@@ -1,7 +1,7 @@
 #print irattte values 1-10
 
 #method1
-count=7
+count=8
 while count<12 :
     print(count)
     count=count+3
