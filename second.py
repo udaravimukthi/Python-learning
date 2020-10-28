@@ -13,8 +13,7 @@ b=15
 # elif b>5:
 #     print("b")
     
-else:
-    print("B is not greater than 10")
+
 
 d=6
 
