@@ -18,7 +18,7 @@ b=15
 d=7
 
 if d>5:
-    if d==6:
+    if d==7:
         print("six")
     else:
         print("else")
