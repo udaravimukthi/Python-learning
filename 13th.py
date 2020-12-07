@@ -14,5 +14,5 @@ def simple_interest(p,t,r):
     print('The Simple Interest is', si) 
     return si 
       
-# Driver code 
+# Driver cod
 simple_interest(8, 6, 8)
